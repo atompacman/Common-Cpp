@@ -1,5 +1,5 @@
-#ifndef FXG_COMMON_RANDOM
-#define FXG_COMMON_RANDOM
+#ifndef FXGUILD_COMMON_RANDOM
+#define FXGUILD_COMMON_RANDOM
 
 /*================================================================================================\\
 | Utilities for generating pseudo-random numbers
@@ -69,4 +69,4 @@ inline std::set<int32_t> randIntSet(int32_t i_Min, int32_t i_Max, uint32_t i_Num
 
 }}
 
-#endif //FXG_COMMON_RANDOM
+#endif //FXGUILD_COMMON_RANDOM

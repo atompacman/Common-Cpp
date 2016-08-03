@@ -1,5 +1,5 @@
-#ifndef FXG_COMMON_BOUNDS
-#define FXG_COMMON_BOUNDS
+#ifndef FXGUILD_COMMON_BOUNDS
+#define FXGUILD_COMMON_BOUNDS
 
 /*================================================================================================\\
 | Bounds, Limits or Interval between two quantities of the same type
@@ -68,4 +68,4 @@ template <typename T> using Interval = Bounds<T>;
 
 }}
 
-#endif // FXG_COMMON_BOUNDS
+#endif // FXGUILD_COMMON_BOUNDS

@@ -1,5 +1,5 @@
-#ifndef FXG_COMMON_VECTOR2D
-#define FXG_COMMON_VECTOR2D
+#ifndef FXGUILD_COMMON_VECTOR2D
+#define FXGUILD_COMMON_VECTOR2D
 
 /*================================================================================================\\
 | 2D mathematical vector of type T
@@ -266,4 +266,4 @@ Vector2D<T> normalized(Vector2D<T> const & i_Vec)
 
 }}
 
-#endif // FXG_COMMON_VECTOR2D
+#endif // FXGUILD_COMMON_VECTOR2D

@@ -1,5 +1,5 @@
-#ifndef FXG_COMMON_DIRECTION2D
-#define FXG_COMMON_DIRECTION2D
+#ifndef FXGUILD_COMMON_DIRECTION2D
+#define FXGUILD_COMMON_DIRECTION2D
 
 /*================================================================================================\\
 | Enums and utility methods for manipulating 2D directions
@@ -111,4 +111,4 @@ inline Dir2DWithDiag oppositeOf(Dir2DWithDiag i_Dir)
 
 }}
 
-#endif // FXG_COMMON_DIRECTION2D
+#endif // FXGUILD_COMMON_DIRECTION2D
